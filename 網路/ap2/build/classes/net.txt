@@ -1,0 +1,1662 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head><meta charset="utf-8" /><meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=0" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="format-detection" content="telephone=no" /><title>
+	課程查詢-巨匠電腦,電腦補習班
+</title>
+    <!--[if lt IE 10]>
+      <script>
+          alert('親愛的同學您好，您使用的瀏覽器為IE8/9，目前本網站已不支援IE9(含)以下的版本，請使用IE9以後的版本或其他瀏覽器。');
+          location.href='https://www.google.com.tw/chrome/browser/desktop/index.html';
+      </script>
+    <![endif]-->
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link rel="apple-touch-icon" href="/2015/images/appicon60x60.png" /><link rel="apple-touch-icon" sizes="76x76" href="/2015/images/appicon76x76.png" /><link rel="apple-touch-icon" sizes="120x120" href="/2015/images/appicon120x120.png" /><link rel="apple-touch-icon" sizes="152x152" href="/2015/images/appicon152x152.png" /><link href="/js/bootstrap336/css/bootstrap.min.css" rel="stylesheet" /><link href="/js/slick/slick/slick.min.css" rel="stylesheet" /><link href="/js/Magnific-Popup/dist/magnific-popup.min.css" rel="stylesheet" /><link href="/2017/css/defaultMaster.css" rel="stylesheet" /><link href="/2017/css/style.css" rel="stylesheet" /><link href="/2017/defaultMaster.css" rel="stylesheet" />
+
+    <script src="/js/jquery-2.2.4.min.js"></script>
+
+    
+    <style>
+        #classList a {
+            color: black !important;
+        }
+
+        .tabWrapper .form-group {
+            margin-bottom: 0;
+        }
+
+        .tabWrapper {
+            padding: 0 15px;
+            line-height: 36px;
+            vertical-align: middle;
+        }
+
+            .tabWrapper a {
+                line-height: normal;
+            }
+
+            .tabWrapper label {
+                margin-right: 15px;
+            }
+
+        .tabHeader2, .tabItems2, .tabFooter2 {
+            border-bottom: 2px solid white;
+            /*line-height: 40px;*/
+            vertical-align: middle;
+        }
+
+
+        .tabItems2, .tabFooter2 {
+            background-color: #EDFBFF;
+            color: black;
+        }
+
+        .tabWrapper select, .tabWrapper input {
+            margin-top: 5px;
+            margin-bottom: 5px;
+            /*line-height:30px;
+            vertical-align:middle;*/
+        }
+
+        .tabHeader2 {
+            background-color: #00C1D5;
+            color: white;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        .tabItems2 > div:first-child, .tabFooter2 > div:first-child {
+            background-color: #B7DEE8;
+            font-weight: bold;
+        }
+
+        .tabFooter2 {
+            border-bottom-right-radius: 10px;
+            border-bottom-left-radius: 10px;
+            padding-bottom: 10px;
+        }
+
+        .panel5Item {
+            border: 1px solid #CCCCCC;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            padding: 10px;
+        }
+
+        .panel5ItemTitle {
+            border: 3px solid #00CCCC;
+            color: #00CCCC;
+            text-align: center;
+            height: 60px;
+            line-height: 54px;
+            overflow: hidden;
+            /*vertical-align: middle;*/
+            vertical-align: baseline;
+        }
+
+        .panel5ItemTitle2 {
+            color: #00CCCC;
+            text-align: center;
+        }
+
+        .panel5ItemText {
+            text-align: center;
+            height: 60px;
+            line-height: 30px;
+            overflow: hidden;
+        }
+
+        .panel5ItemText2 {
+            text-align: center;
+            height: 30px;
+            line-height: 30px;
+            overflow: hidden;
+        }
+
+        .panel5Item.coursetype2 .panel5ItemTitle, .panel5Item.coursetype2 .panel5ItemTitle2 {
+            color: dodgerblue;
+        }
+
+        .panel5Item.coursetype2 .panel5ItemTitle {
+            border-color: dodgerblue;
+        }
+
+        .panel5Item.coursetype3 .panel5ItemTitle, .panel5Item.coursetype3 .panel5ItemTitle2 {
+            color: #465AFF;
+        }
+
+        .panel5Item.coursetype3 .panel5ItemTitle {
+            border-color: #465AFF;
+        }
+
+        .tabWrapper .subTitle {
+            text-align: center;
+        }
+
+        .courseDataList label {
+            display: inline;
+        }
+
+        @media screen and (max-width:768px) {
+            .tabWrapper .subTitle {
+                text-align: left;
+            }
+        }
+
+        /*.courseDataList *[disabled],.courseDataList *[disabled] + br {
+            display:none;
+        }*/
+    </style>
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i) {
+            w[l]=w[l]||[]; w[l].push({
+                'gtm.start':
+                    new Date().getTime(),event: 'gtm.js'
+            }); var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'? '&l='+l:''; j.async=true; j.src=
+                    'https://www.googletagmanager.com/gtm.js?id='+i+dl; f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TPQ8RC');</script>
+    <!-- End Google Tag Manager -->
+<meta property="og:title" content="課程查詢-巨匠電腦,電腦補習班" /><meta property="og:site_name" content="巨匠電腦" /><meta name="keywords" content="巨匠電腦課程查詢,巨匠電腦,電腦補習班,學電腦,電腦課程" /><meta property="og:description" content="巨匠電腦課程查詢-巨匠電腦補習班,學電腦超簡單,是您學電腦課程最佳選擇" /><meta name="description" content="巨匠電腦課程查詢-巨匠電腦補習班,學電腦超簡單,是您學電腦課程最佳選擇" /><meta property="og:image" content="https://www.pcschool.com.tw/fbshare.jpg" /><meta name="image" content="https://www.pcschool.com.tw/fbshare.jpg" /><meta property="og:type" content="website" /><meta property="og:url" content="https://www.pcschool.com.tw/courses?branchid=FB" /><meta property="fb:app_id" content="485150688254489" /></head>
+<body onunload="">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPQ8RC"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="container-fluid noMargin" style="overflow-x: hidden;">
+        <form name="aspnetForm" method="post" action="./courses?branchid=FB" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTc5NjE1ODczD2QWAmYPZBYCAgMPZBYEAgMPZBYCAgEPFgIeC18hSXRlbUNvdW50AgUWCmYPZBYCZg8VBUwvL3d3dy5wY3NjaG9vbC5jb20udHcvYWN0aXZpdHkvMTA3LzEwNzAzMjNfUHl0aG9uL2luZGV4Lmh0bWw/ZnJvbXRvPTk5MDAxMDg5Bl9ibGFuawAnMjAxN1JXRF9BRC9pbnRlcmhlYWRlci8yMDE4MDYwN18wMWIuanBnAGQCAQ9kFgJmDxUFLS8vd3d3LnBjc2Nob29sLmNvbS50dy9wY2d1aWRlP2Zyb210bz05OTAwMTA4OQZfYmxhbmsAJzIwMTdSV0RfQUQvaW50ZXJoZWFkZXIvMjAxODAzMjlfMDFiLmpwZwBkAgIPZBYCZg8VBVAvL3d3dy5wY3NjaG9vbC5jb20udHcvYWN0aXZpdHkvMTA1LzEwNTA3MjZfRS1jb21tZXJjZS9pbmRleC5odG1sP2Zyb210bz05OTAwMTA4OQZfYmxhbmsAJzIwMTdSV0RfQUQvaW50ZXJoZWFkZXIvMjAxODA2MDdfMDNiLmpwZwBkAgMPZBYCZg8VBUgvL3d3dy5wY3NjaG9vbC5jb20udHcvYWN0aXZpdHkvMTA3L2RpZ2ktY29taWMvaW5kZXguaHRtbD9mcm9tdG89OTkwMDEwODkGX2JsYW5rACcyMDE3UldEX0FEL2ludGVyaGVhZGVyLzIwMTgwNjA3XzAyYi5qcGcAZAIED2QWAmYPFQVLLy93d3cucGNzY2hvb2wuY29tLnR3L2FjdGl2aXR5LzEwNi8xMDYwMzE1X2F6dXJlL2luZGV4Lmh0bWw/ZnJvbXRvPTk5MDAxMDg5Bl9ibGFuawAaMjAxNVJXRF9BRC9SV0RfMDA0QTAxOS5qcGcAZAIHD2QWBGYPZBYCZg9kFgICAQ9kFhICAQ8QDxYCHgtfIURhdGFCb3VuZGdkDxYLAgECAgIDAgQCBQIGAgcCCAIJAgoCCxYLEAUM6KaW6Ka66Kit6KiIBQE0ZxAFEOeoi+W8jy/os4fmlpnluqsFAThnEAURM0TlpJrlqpLpq5Tli5XnlasFATVnEAUM57ay6aCB6Kit6KiIBQE2ZxAFEuW7uuevieWupOWFp+ioreioiAUBM2cQBQ/miYvmqZ9BUFDoqK3oqIgFATFnEAUM5b2x6KaW54m55pWIBQIxMWcQBQzlt6Xmpa3oqK3oqIgFATJnEAUM57ay6Lev566h55CGBQE3ZxAFDOmbu+iFpuWFpemWgAUCMTBnEAUM6KqN6K2J6LyU5bCOBQE5ZxYBZmQCBQ8QDxYCHwFnZGQWAWZkAgcPD2QPEBYBZhYBFgIeDlBhcmFtZXRlclZhbHVlZRYBZmRkAgkPEA8WAh8BZ2QQFQAVABQrAwBkZAILDw9kDxAWAmYCARYCFgIfAmUWAh8CZRYCZmZkZAINDxAPFgIfAWdkDxYPAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRFg8QBQnlj7DljJfluIIFATFnEAUJ5paw5YyX5biCBQEyZxAFDOahg+Wckue4o+W4ggUBNGcQBQzmlrDnq7nnuKPluIIFATVnEAUM6IuX5qCX57ij5biCBQE2ZxAFCeWPsOS4reW4ggUBN2cQBQzljZfmipXnuKPluIIFATlnEAUM5b2w5YyW57ij5biCBQIxMGcQBQnpm7LmnpfnuKMFAjExZxAFDOWYiee+qee4o+W4ggUCMTJnEAUJ5Y+w5Y2X5biCBQIxM2cQBQnpq5jpm4TluIIFAjE1ZxAFDOWxj+adsee4o+W4ggUCMTdnEAUM5a6c6Jit57ij5biCBQIxOGcQBQzoirHmnbHnuKPluIIFAjE5ZxYBAghkAhEPEA8WAh8BZ2QQFQgM5Y+w5Lit56uZ5YmNDOWFrOebiuiqjeitiQzpgKLnlLLoqo3orYkM6LGQ5Y6f6KqN6K2JDOS4ieawkeiqjeitiQzlpKfph4zoqo3orYkM5rKZ6bm/6KqN6K2JDOWkp+eUsuiqjeitiRUIBEZCICAERk0gIARGUCAgBEZFICAERkggIARGTCAgBEZRICADSzA2FCsDCGdnZ2dnZ2dnZGQCEw8PZA8QFgFmFgEWAh8CBQE3FgFmZGQCFQ8QZA8WA2YCAQICFgMQBQcyMDE5LzA2BQYyMDE5MDZnEAUHMjAxOS8wNwUGMjAxOTA3ZxAFBzIwMTkvMDgFBjIwMTkwOGdkZAIBD2QWAgIBD2QWAmYPZBYEAgEPFgIeBFRleHQFEuWFjeiyu+iqsueoi+irruipomQCAw9kFgYCCA8QDxYCHwFnZA8WFgIBAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4CDwIQAhECEgITAhQCFQIWFhYQBQnln7rpmobluIIFAjAxZxAFCeWPsOWMl+W4ggUCMDJnEAUJ5paw5YyX5biCBQIwM2cQBQnmoYPlnJLluIIFAjA0ZxAFCeaWsOerueW4ggUCMDVnEAUJ5paw56u557ijBQIwNmcQBQnoi5fmoJfnuKMFAjA3ZxAFCeWPsOS4reW4ggUCMDhnEAUJ5b2w5YyW57ijBQIxMGcQBQnljZfmipXnuKMFAjExZxAFCembsuael+e4owUCMTJnEAUJ5ZiJ576p5biCBQIxM2cQBQnlmInnvqnnuKMFAjE0ZxAFCeWPsOWNl+W4ggUCMTVnEAUJ6auY6ZuE5biCBQIxN2cQBQnlsY/mnbHnuKMFAjE5ZxAFCeWPsOadsee4owUCMjBnEAUJ6Iqx6JOu57ijBQIyMWcQBQnlrpzomK3nuKMFAjIyZxAFCea+jua5lue4owUCMjNnEAUJ6YeR6ZaA57ijBQIyNGcQBQnpgKPmsZ/nuKMFAjI1ZxYBZmQCCw8QDxYCHwFnZGRkZAINDw9kDxAWAWYWARYCHwJlFgFmZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFg8FJGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkY2JsX3NvYjMkMAUmY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjYmxfYnJhbmNoJDAFJmN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkY2JsX2JyYW5jaCQxBSZjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGNibF9icmFuY2gkMgUmY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjYmxfYnJhbmNoJDMFJmN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkY2JsX2JyYW5jaCQ0BSZjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGNibF9icmFuY2gkNQUmY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjYmxfYnJhbmNoJDYFJmN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkY2JsX2JyYW5jaCQ3BSZjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGNibF9icmFuY2gkNwUpY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjYmxfeWVhck1vbnRoJDAFKWN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkY2JsX3llYXJNb250aCQxBSljdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGNibF95ZWFyTW9udGgkMgUpY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjYmxfeWVhck1vbnRoJDIFKGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkbmV0Rm9ybSRpQWdyZWXTmojQWBmMCJ0/0vpQQJkIEEx2NMfpWDH8QvdcKt6T/w==" />
+
+
+<script src="Scripts/WebForms/MsAjax/MicrosoftAjax.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="64D10315" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAHNRgAhXDD7VdEypLpa6WpbcXUsZuAPE/YdTjcr6DpAn4XWoIU+ulUBQnH8gUuAuZE8TrC0mFh91Uz+sWZZp9ScYaHFlmVJaOIU+5oulOk2/nn2Wr8QeIQ3q0HllE3XCYBTJY8jik6u6RupcrULzNFYWAxg6Ik18XH8g+ZQ1e0e4Nc98PhpLHU4s1oBiPm5oYE4ZMBuoRzkMthMWghQ6hjWCYna10ixASDJEC74yp2hZIPFDNgQbxaTD2z9PKNhawOBwhIYkC3lya66ir1poi1D+RuGO3qSco+x6O+WI/Ce05YkDwYloP7HpzW3e6ZOS5FmvnSJQRsT+1n2qmSemKnirKG6RE5ezyw6MwVBWJ1s5Ow2rEqLPlVdcyYAWyeEc7hU+yHE+c2ZdfvJ4bB+zdYVXj88fsOVRvgUgVnd5bzptPAH5vT+Zs42FMzzVZlPwGUMBmUDSEMIkoA111F21CHH0mTNm0zKEIGJXtO8/ViOIjN2bqemHnssF8AWXmRruTY6HywbVuk2j78P9z1vJl5A8RgUmpWxBpgFT+hB2cFQs+SOrLLj01BmBjlXkfctrPcG5B9c4X16Rk0tWs+m7hKKZfm6lMqzyKtWX70jjb2fVgd/kqnJHqsU+mQHlGzTIA1IIxxSOwK3UG/EKkLUVP9ePR8X0W7Xb/9DPzRvMCXaFYSTaHEd6jOlVoxkrNU3tK6OYJI33fana+z7nqYOheEjqEuUc7bfUKgQThguxi+4t8PcL/zcqSX+6dSMxBoalxWXBEZCAVLR6mTqSm5oVFYAapmJK/xoKEhyGgE9z6Qwr9pcKkIyg+vvtbjH5cKNgel4stbfyO5D9FjvGzTPfmwmsYYfpYRWZF0hbFBIBQWWD/uu7b6FiAsKBJVrtFkULBtVc1m5jDNz3p3kP5FylS8ScVPL8+1X7E9jeIuWy6YI21zr51leDBKGCx2q7nWyWHyUr60LXgMgZD3rIBT8xbxcL0qDCJeal9sVT/hZ51uIWqWoZJaWh+EZ5AYcdlHteUpnSVvN9edbwJmQlScY6Y1ys7VT9tsj0ir5MCwFB7DXrz3C1JdlH3mUdjHcsiAVV4WPUL25V9+l/mKn7Vud7CPvVlLf7eaFXv3+xRUe3Rfb6ctvDKK2p+7aVd/XsJz4DcGPuLIYNRKJuQjflC52xnAtLiosijE8GS3e4RFnmDwaY4wxRnaNAmcRKh8VCfE/2UmAEl6UVsvnoWcAScu3b/zg8hkFCu8rHvBAKrJWF7g4E1YlgyJ2aRz0VWrFKnWfuqNmOsDqIvTbqyHvdxU10DTA9dRc3HKCOSvGip28o0P+MpvFmv/rrVEDPUbZ2IwxNjfjkJhv7Uj3i38qss+POHBTM33PS60IAd1gg1m4aYNxnvKtppMwZJTC6USUBwJy3nK5/ujIg6XihkgFYrQiLFrW5N18RZJdqOeNyB23CVgxsCPwAbUvu02CtlwDyaqrU+DBTYJjsRYrbwT+uAx6gLH+afotg9Or96S7eKf/jHsHDXyE1SupJd4eDzeZuIKKWK8QXDLUW2dLxlNbgjbnRM1jz5DyO2y/d7HjJwZ+9S01DsPcJ5zITCmpHjBWUU1EUHvvKvT9DSmUGq9Rd4cDC0NRVGnl2isQUPsFtOk0Id24Aw4pqUYLzuogOnlg1RFs2ii3iImv8oLHUXGi+OJqKr4ZfZrgfV0DzZtb2N0SQ4aTjRs22q2Vu8QlVpxcG91B9nvQ48yLqX9LCdWphrj+UuPghPHkFCxRy/WZI10dlmO7vYRBQJ2F+TUVT29ANWx7kKTwhl0mPD8k4OsreDqQusj+bOR9abhrh1W6L7T13/LnjeCILld1uBx3EGToRJJ6+ocCxC3hlDARBuCsY0frdGCLFMl4Vfx/RiUZ7x2/q/NkqdsK4IfNoCznPWkbN4OaztSWr8GQlZk7RqXjK9C7pp5lsHnBmJss3MuXtH98HRZHShQKIvWRDcHlR9ZgWXqlYJXm7pX/aEeVKI4dqUL5gMZN8nGrYBak+sw3cJe0L/G1C1Uh7sEn3dG/ddnrNNJzaopu1oLjDqVu3/d75zvHZ9zLBKCRwPgiQjJ1wQBPWSY+46Bt3DXQuJjCsHepZOhcwLgARquqAWZJxHDCw7TFNydbjt+Hx9ARkRZPdL/CDtvnI5w/Lkwe4apkzDG+J2R88UuTYLTq5YREkUT41rYBVtyu3YIwoCHQzk4iYpgbkRhpVLGFp58qYuut6oN0k9gPx/ZTuDW4TFB3q49i33TqNHQWeNM6mb9WAQuAVIpgYe9AUUeVnFwwv4wjeGmln9Ii1LT2E1cafm+E1tpO2xGJXnXMNBRYp/iWsz0AodK6Nx8CKv0z8YHIj8l9IivA/YaRzqCr0v5zKZAn2XDmD6Y5uhpmBUDPV427/AGIs0hfaFC/0zxnJLkIgU2iA+hCinGFsMktX9HASFP+dskO0QKRzWWCfFSJ9ndLG2WrUnqnPY/3v60LRDV7xYWRNkiwcsxuUByI=" />
+            
+            
+<!-- -------------------------------------------------- TOP BANNER -------------------------------------------------- -->
+<div style="position: relative; margin: 0 0 0 0; overflow: hidden;" class="hidden-xs" id="bannerWrapper">
+    <!-- Wrapper for slides -->
+    <div class="innerpgCarousel">
+        <div class="carousel-innerpg">
+            
+                    <div class="slider">
+                        <a href="//www.pcschool.com.tw/activity/107/1070323_Python/index.html?fromto=99001089" target='_blank' title='' style="height: 200px; position: relative; width: 100%; border: 0 solid green; overflow: hidden;">
+                            <img src='//www.pcschool.com.tw/updimg/act/2017RWD_AD/interheader/20180607_01b.jpg' alt='' style="margin: 0; transform: translateX(-50%); left: 50%; position: absolute; min-height: 100%;" />
+                        </a>
+                    </div>
+                
+                    <div class="slider">
+                        <a href="//www.pcschool.com.tw/pcguide?fromto=99001089" target='_blank' title='' style="height: 200px; position: relative; width: 100%; border: 0 solid green; overflow: hidden;">
+                            <img src='//www.pcschool.com.tw/updimg/act/2017RWD_AD/interheader/20180329_01b.jpg' alt='' style="margin: 0; transform: translateX(-50%); left: 50%; position: absolute; min-height: 100%;" />
+                        </a>
+                    </div>
+                
+                    <div class="slider">
+                        <a href="//www.pcschool.com.tw/activity/105/1050726_E-commerce/index.html?fromto=99001089" target='_blank' title='' style="height: 200px; position: relative; width: 100%; border: 0 solid green; overflow: hidden;">
+                            <img src='//www.pcschool.com.tw/updimg/act/2017RWD_AD/interheader/20180607_03b.jpg' alt='' style="margin: 0; transform: translateX(-50%); left: 50%; position: absolute; min-height: 100%;" />
+                        </a>
+                    </div>
+                
+                    <div class="slider">
+                        <a href="//www.pcschool.com.tw/activity/107/digi-comic/index.html?fromto=99001089" target='_blank' title='' style="height: 200px; position: relative; width: 100%; border: 0 solid green; overflow: hidden;">
+                            <img src='//www.pcschool.com.tw/updimg/act/2017RWD_AD/interheader/20180607_02b.jpg' alt='' style="margin: 0; transform: translateX(-50%); left: 50%; position: absolute; min-height: 100%;" />
+                        </a>
+                    </div>
+                
+                    <div class="slider">
+                        <a href="//www.pcschool.com.tw/activity/106/1060315_azure/index.html?fromto=99001089" target='_blank' title='' style="height: 200px; position: relative; width: 100%; border: 0 solid green; overflow: hidden;">
+                            <img src='//www.pcschool.com.tw/updimg/act/2015RWD_AD/RWD_004A019.jpg' alt='' style="margin: 0; transform: translateX(-50%); left: 50%; position: absolute; min-height: 100%;" />
+                        </a>
+                    </div>
+                
+        </div>
+        
+
+    </div>
+    <!-- Controls -->
+    <div class="leftArrow" data-target=".carousel-innerpg" style="display: inline-block; left: 15px;">
+    </div>
+    <div class="rightArrow" data-target=".carousel-innerpg" style="display: inline-block; right: 15px;">
+    </div>
+
+    <div class="clearfix"></div>
+    <script type="text/javascript">
+        var topBannerTimer;
+        $(function () {
+            $('.carousel-innerpg').slick({
+                infinite: true,
+                autoplay: true,
+                autoplaySpeed: 8000,
+                arrows: false,
+                slidesToShow: 1,
+                dots: false,
+
+                responsive: [
+                    {
+                        breakpoint: 769,
+                        settings: {
+                            dots: false
+                        }
+                    }
+                ]
+            });
+            
+        });
+
+    </script>
+</div>
+
+            
+<style>
+    .searchResultItem {
+        display: block;
+        line-height: 40px;
+        text-align: left;
+        cursor: pointer;
+        color: black;
+    }
+
+        .searchResultItem:hover {
+            color: yellow;
+        }
+
+    .dropdown-menu-large {
+        overflow: hidden;
+    }
+
+    div.dropdown-toggle {
+        display: inline-block !important;
+        cursor: pointer;
+        padding: 16px 14px;
+        color: #fff;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .dropdown .dropdown-menu-large {
+        border-radius: 0 0 4px 4px !important;
+        margin-top: 0 !important;
+    }
+
+    .dropup .dropdown-menu-large {
+        border-radius: 4px 4px 0 0 !important;
+    }
+
+    .dropdown-menu-large[aria-labelledby="myTabDrop41"] {
+        width: 470px;
+        left: -177px !important;
+    }
+
+    .dropdown-menu-large[aria-labelledby="myTabDrop42"] {
+        width: 470px;
+        left: -117px !important;
+    }
+
+    .dropdown-menu-large[aria-labelledby="myTabDrop5"] {
+        width: 580px;
+        left: -487px !important;
+    }
+
+    .dropdown.dropdown-large.open .dropdown-toggle {
+        background-color: #428bca;
+    }
+
+    .dtWrapper {
+        text-align: left;
+        padding-left: 15%;
+    }
+
+    .dtLogo > img {
+        margin-right: 50px;
+    }
+
+    .dtWrapper {
+        text-align: left;
+    }
+
+    @media (max-width:1280px) {
+        .dtWrapper {
+            text-align: center;
+            padding-left: 0;
+        }
+
+        .dtLogo > img {
+            margin-right: 15px;
+        }
+    }
+
+    @media (max-width:1023px) {
+        .dtLogo {
+            width: 55px;
+            overflow: hidden;
+        }
+    }
+</style>
+<div class="clearfix"></div>
+<div class="xrow menubarTop" style="width: 100%;">
+    <div style="width: 100%; z-index: 888; position: relative;" class="pageHeader" id="affixMenubarWrapper">
+        <div class="affixMenubar">
+            <div class="menubarWrapper">
+                <div class="xrow visible-sm visible-md visible-lg noMargin">
+                    <div class="col-md-12 dtWrapper" style="background-image: url(/2017/images/bg.jpg); line-height: 0;">
+                        <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px; margin-left: 0; position: relative; display: inline-block!important; width: auto!important;">
+                            <div class="navbar-header">
+                                <a class="nav-brand dtLogo" href="/" style="margin-right: 0; display: inline-block;">
+                                    <img src="/2017/images/logo.png" alt="巨匠電腦-電腦補習班,學電腦" title="巨匠電腦-電腦補習班,學電腦" style="margin-top: 8px; padding-left: 15px;" /></a>
+                            </div>
+                            <ul class="nav navbar-nav menubar2017">
+                                <li class="dropdown dropdown-large">
+                                    <div class="dropdown-toggle" id="myTabDrop2">開課查詢</div>
+                                    <ul class="dropdown-menu dropdown-menu-large" aria-labelledby="myTabDrop2" style="width: 400px;">
+                                        <li class="col-sm-4" style="width: 40%">
+                                            <ul>
+                                                <li><a href="/courses">◆ 課程查詢</a></li>
+                                                <li><a href="http://www.pcschoolonline.com.tw/2017/inqClass.aspx" target="_blank">◆ 線上真人查詢</a></li>
+                                                <li><a href="https://www.it360.com.tw/course-search.aspx#title" target="_blank">◆ IT360課程查詢</a></li>
+                                                <li><a href="/freecourse">◆ 免費研討會查詢</a></li>
+                                                
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-4" style="width: 40%">
+                                            <ul>
+                                                <li><a href="/freecourse/seminar">◆ 線上說明會報名</a></li>
+                                                <li><a href="/branch-school">◆ 免費課表索取</a></li>
+                                                <li><a href="/study-technical">◆ 電腦學習密技</a></li>
+                                                <li><a href="/course-reserves">◆ 學員登入劃位</a></li>
+
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown dropdown-large">
+                                    <div class="dropdown-toggle" id="myTabDrop1">課程總覽</div>
+                                    <ul class="dropdown-menu dropdown-menu-large" aria-labelledby="myTabDrop1" style="width: 600px;">
+                                        <li class="col-sm-3" style="width: 25%;">
+                                            <ul>
+                                                <li><a href="/app-creation">◆ 手機APP設計</a></li>
+                                                <li><a href="/industrial-design">◆ 工業設計</a></li>
+                                                <li><a href="/architectural-interior-design">◆ 建築室內設計</a></li>
+                                                <li><a href="/visual-design">◆ 視覺設計</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3" style="width: 25%;">
+                                            <ul>
+                                                <li><a href="/3d-animation">◆ 3D多媒體動畫</a></li>
+                                                <li><a href="/cloud-computing">◆ 網路管理</a></li>
+                                                <li><a href="/programming">◆ 程式/資料庫</a></li>
+                                                <li><a href="/certified-remedial">◆ 認證輔導</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3" style="width: 25%;">
+                                            <ul>
+                                                <li><a href="/pcguide">◆ 電腦入門</a></li>
+                                                <li><a href="/visual-effects">◆ 影視特效</a></li>
+                                                <li><a href="/webdesign">◆ 網頁設計</a></li>
+                                                <li><a href="/activity/107/1070212_ai/index.html">◆ AI智慧課程</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3" style="width: 25%;">
+                                            <ul>
+                                                <li><a href="/design-college">◆ 設計學院</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown dropdown-large">
+                                    <div class="dropdown-toggle" id="myTabDrop3">政府補助</div>
+                                    <ul class="dropdown-menu dropdown-menu-large" aria-labelledby="myTabDrop3" style="width: 400px;">
+                                        <li class="col-sm-3" style="width: 40%">
+                                            <ul>
+                                                <li><a href="/gov-subsidies?area=6">◆ 北基宜花區</a></li>
+                                                <li><a href="/gov-subsidies?area=7">◆ 桃竹苗區</a></li>
+                                                <li><a href="/gov-subsidies?area=8">◆ 中彰投區</a></li>
+                                                <li><a href="/gov-subsidies?area=9">◆ 雲嘉南區</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3" style="width: 40%">
+                                            <ul>
+                                                <li><a href="/gov-subsidies?area=10">◆ 高屏東區</a></li>
+                                                <li><a href="/gov">◆ 政府補助說明</a></li>
+                                                <li><a href="/gov-faq">◆ 職訓資格說明</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown dropdown-large">
+                                    <div class="dropdown-toggle" aria-labelledby="myTabDrop4">就業輔導</div>
+                                    <ul class="dropdown-menu dropdown-menu-large" aria-labelledby="myTabDrop4" style="width: 200px;">
+                                        <li class="col-sm-3" style="width: 40%">
+                                            <ul>
+                                                <li><a href="/job">◆ 就業課程專班</a></li>
+                                                <li><a href="/manpower">◆ 企業徵才媒合</a></li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+                                <li><a href="/branch-school">全國分校</a></li>
+
+                                <li><a href="/pcschool-teachers">百大名師</a></li>
+
+                                <li class="dropdown dropdown-large">
+                                    <div class="dropdown-toggle" aria-labelledby="myTabDrop42">線上真人</div>
+                                    <ul class="dropdown-menu dropdown-menu-large" aria-labelledby="myTabDrop42" style="width: 210px;">
+                                        <li class="col-sm-4">
+                                            <ul>
+                                                <li><a href="http://www.pcschoolonline.com.tw" target="_blank">◆ 線上真人首頁</a></li>
+                                                <li><a href="http://www.pcschoolonline.com.tw/2017/inqclass2.aspx" target="_blank">◆ IT真人課程劃位</a></li>
+                                                <li><a href="http://www.pcschoolonline.com.tw/2017/student_10_CardTrs.aspx" target="_blank">◆ 點數卡產品兌換</a></li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+
+                                <li class="dropdown dropdown-large">
+                                    <div class="dropdown-toggle" id="myTabDrop5">學員專區</div>
+                                    <ul class="dropdown-menu dropdown-menu-large" aria-labelledby="myTabDrop5">
+                                        <li class="col-sm-2" style="margin-right: 1px; width: 130px;">
+                                            <ul>
+                                                <li><a href="/course-booked">◆ 主修課程劃位</a></li>
+                                                <li><a href="/course-reserves">◆ 單元課程劃位</a></li>
+                                                <li><a href="/class-cancellations">◆ 課程取消劃位</a></li>
+                                                <li><a href="/leaving-your-course">◆ 請假作業</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-2" style="margin-right: 1px; width: 130px;">
+                                            <ul>
+                                                <li><a href="/calendar">◆ 課程行事曆</a></li>
+                                                <li><a href="/trading-recording">◆ 我的使用紀錄</a></li>
+                                                <li><a href="/school-bulletin">◆ 學員公告</a></li>
+                                                <li><a href="/customer-rights">◆ 學員權益說明</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-2" style="margin-right: 1px; width: 130px;">
+                                            <ul>
+                                                <li><a href="/about-me">◆ 我的個人資料</a></li>
+                                                <li><a href="/manpower">◆ 求職專區</a></li>
+                                                <li><a href="/student-works">◆ 作品管理</a></li>
+                                                <li><a href="/activity/collect_fun/index.aspx" target="_blank">◆ 集點活動</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-2" style="margin-right: 1px; width: 130px;">
+                                            <ul>
+                                                <li><a href="/career-reward" class="loginFirst">◆ 就業獎學金</a></li>
+                                                <li><a href="/questionnaire" class="loginFirst">◆ 問卷填寫</a></li>
+                                                <li><a href="/signin" class="loginFirst">◆ 上課簽到</a></li>
+                                                <li>
+                                                    <a id="ctl00_ucHeader_btnLogout" href="javascript:__doPostBack(&#39;ctl00$ucHeader$btnLogout&#39;,&#39;&#39;)">◆ 登出</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="javascript:return false;" class="btnSearch"><span class="glyphicon glyphicon-search"></span></a>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                <div class="xrow visible-xs xvisible-sm pageHeader2" style="width: 100%; overflow-x: hidden;">
+                    <div class="row">
+                        <div class="col-md-12" style="background-image: url(/2017/images/bg.jpg);">
+                            <div class="col-md-2"></div>
+                            <div class="col-md-8">
+                                <div class="navbar-header">
+                                    <button style="float: right; margin-right: 5px; margin-left: 1px;" type="button" class="navbar-toggle collapsed btnMobile" data-toggle="collapse" data-target="#navbar2" aria-expanded="false"
+                                        aria-controls="navbar2">
+                                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                                    </button>
+                                    <button type="submit" class="btn glyphicon glyphicon-search fontWhite btnSearch" style="background-color: #e02512; margin-top: 8px; float: right; margin-right: 2px;">
+                                    </button>
+                                    <a class="nav-brand" href="/" style="display: inline-block;">
+                                        <img src="/2017/images/logo.png" alt="巨匠電腦-電腦補習班,學電腦" title="巨匠電腦-電腦補習班,學電腦" style="margin-top: 8px;" /></a>
+                                </div>
+                                <div id="navbar2" class="navbar-collapse collapse" aria-expanded="false">
+                                    <ul class="nav navbar-nav" style="width: 100%; overflow-x: hidden; padding-left: 15px;">
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">開課查詢<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="/courses">課程查詢</a></li>
+                                                <li><a href="http://www.pcschoolonline.com.tw/2017/inqClass.aspx" target="_blank">線上真人查詢</a></li>
+                                                <li><a href="https://www.it360.com.tw/course-search.aspx#title" target="_blank">IT360課程查詢</a></li>
+                                                <li><a href="/freecourse">免費研討會查詢</a></li>
+                                                <li><a href="/freecourse/seminar">線上說明會報名</a></li>
+                                                <li><a href="/branch-school">免費課表索取</a></li>
+                                                <li><a href="/study-technical">電腦學習密技</a></li>
+                                                <li><a href="/course-reserves">學員登入劃位</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">課程總覽<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+
+                                                <li><a href="/app-creation">手機APP設計</a></li>
+                                                <li><a href="/industrial-design">工業設計</a></li>
+                                                <li><a href="/architectural-interior-design">建築室內設計</a></li>
+                                                <li><a href="/visual-design">視覺設計</a></li>
+                                                <li><a href="/3d-animation">3D多媒體動畫</a></li>
+                                                <li><a href="/cloud-computing">網路管理</a></li>
+                                                <li><a href="/programming">程式/資料庫</a></li>
+                                                <li><a href="/certified-remedial">認證輔導</a></li>
+                                                <li><a href="/pcguide">電腦入門</a></li>
+                                                <li><a href="/visual-effects">影視特效</a></li>
+                                                <li><a href="/webdesign">網頁設計</a></li>
+                                                <li><a href="/activity/107/1070212_ai/index.html">AI智慧課程</a></li>
+                                                <li><a href="/design-college">設計學院</a></li>
+                                            </ul>
+                                        </li>
+
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">政府補助<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="/gov-subsidies?area=6">北基宜花區</a></li>
+                                                <li><a href="/gov-subsidies?area=7">桃竹苗區</a></li>
+                                                <li><a href="/gov-subsidies?area=8">中彰投區</a></li>
+                                                <li><a href="/gov-subsidies?area=9">雲嘉南區</a></li>
+                                                <li><a href="/gov-subsidies?area=10">高屏東區</a></li>
+                                                <li><a href="/gov">政府補助說明</a></li>
+                                                <li><a href="/gov-faq">職訓資格說明</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">就業輔導<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="/job">就業課程專班</a></li>
+                                                <li><a href="/manpower">企業徵才媒合</a></li>
+                                            </ul>
+                                        </li>
+
+                                        <li><a href="/branch-school">全國分校</a></li>
+                                        <li><a href="/pcschool-teachers">百大名師</a></li>
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">線上真人<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="http://www.pcschoolonline.com.tw" target="_blank">線上真人首頁</a></li>
+                                                <li><a href="http://www.pcschoolonline.com.tw/2017/inqclass2.aspx" target="_blank">IT真人課程劃位</a></li>
+                                                <li><a href="http://www.pcschoolonline.com.tw/2017/student_10_CardTrs.aspx" target="_blank">點數卡產品兌換</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">學員專區<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="/course-booked">主修課程劃位</a></li>
+                                                <li><a href="/course-reserves">單元課程劃位</a></li>
+
+                                                <li><a href="/class-cancellations">課程取消劃位</a></li>
+                                                <li><a href="/leaving-your-course">請假作業</a></li>
+                                                <li><a href="/calendar">課程行事曆</a></li>
+
+                                                <li><a href="/about-me">我的個人資料</a></li>
+                                                <li><a href="/trading-recording">我的使用紀錄</a></li>
+                                                <li><a href="/school-bulletin">學員公告</a></li>
+                                                <li><a href="/customer-rights">學員權益說明</a></li>
+
+                                                <li><a href="/career-reward" class="loginFirst">就業獎學金</a></li>
+                                                <li><a href="/manpower">求職專區</a></li>
+                                                <li><a href="/student-works">作品管理</a></li>
+                                                <li><a href="/activity/collect_fun/index.aspx" target="_blank">集點活動</a></li>
+
+                                                <li><a href="/questionnaire" class="loginFirst">問卷填寫</a></li>
+                                                <li><a href="/courses">開課查詢</a></li>
+                                                <li><a href="/signin">◆ 上課簽到</a></li>
+                                                <li>
+                                                    <a id="ctl00_ucHeader_btnLogout2" href="javascript:__doPostBack(&#39;ctl00$ucHeader$btnLogout2&#39;,&#39;&#39;)">登出</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="/special-offers">網友推薦</a></li>
+                                        <li><a href="https://www.facebook.com/pcplay" target="_blank">FB粉絲團</a></li>
+                                        <li><a href="https://www.youtube.com/user/GjunChannel" target="_blank">YouTube頻道</a></li>
+                                        <li><a href="/blog">部落格</a></li>
+                                        <li><a href="/online-learning">影音學習</a></li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                            <div class="col-md-2"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div id="ctl00_ucHeader_searchPanel">
+	
+                <div class="xrow searchPanel " style="background-color: rgba(255,255,255,0.70); display: none; width: 100%; padding-bottom: 15px; position:absolute;">
+                    <div class="col-md-12 center-block text-center" style="padding: 15px 15px 0 15px; margin: 0;">
+                        <div class="form-inline" role="form">
+                            <div class="form-group">
+                                <div style="font-size: 14px; margin-bottom: 10px; color: black; display: inline-block;" class="searchPanelTitlt center-block">課程搜尋</div>
+                                <select name="ctl00$ucHeader$searchCat" id="ctl00_ucHeader_searchCat" class="form-control searchCat">
+		<option value="1">北區開課查詢</option>
+		<option value="2">中區開課查詢</option>
+		<option value="3">南區開課查詢</option>
+		<option value="4">東區開課查詢</option>
+		<option value="5">熱門文章搜尋</option>
+
+	</select>
+                            </div>
+                            <div class="form-group">
+                                <input name="ctl00$ucHeader$searchText" type="text" maxlength="20" id="ctl00_ucHeader_searchText" class="form-control searchText" placeholder="請輸入關鍵字" />
+                                <div style="height: 0; position: relative;">
+                                    <div class="searchHintPanel" style="display: none; width: 100%; background-color: dodgerblue; z-index: 999; border: 1px solid gray; position: absolute; padding: 5px;"></div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <a onclick="return searchChecker();" id="ctl00_ucHeader_searchBtn" class="btn glyphicon glyphicon-search fontWhite" href="javascript:__doPostBack(&#39;ctl00$ucHeader$searchBtn&#39;,&#39;&#39;)" style="display: inline-block; margin-top: -2px;"></a>
+                                <script>
+                                    function searchChecker() {
+                                        if($.trim($('.searchText').val())=='') {
+                                            alert('請輸入關鍵字...');
+                                            return false;
+                                        } else {
+                                            return true;
+                                        }
+                                    }
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            
+</div>
+            <div class="clearfix"></div>
+        </div>
+
+    </div>
+</div>
+<script>
+
+    $(function() {
+        var isLoading3=false;
+        $('a.loginFirst').click(function(e) {
+            var targetLink=this;
+            e.preventDefault();
+            if(isLoading3) {
+                return;
+            }
+            isLoading3=true;
+            $.ajax({
+                type: "POST",
+                url: "/ws2015.asmx/getLoginStatus",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function(data,status) {
+                    var dataAry=$.parseJSON(data.d);
+                    if(dataAry.length===0) {
+                        //alert("系統發生錯誤，請重試...#1");
+                        isLoading3=false;
+                        linkerClick('/login.aspx?ReturnUrl='+$(targetLink).attr('href'));
+                    } else {
+                        var d=dataAry[0];
+                        isLoading3=false;
+                        if(d.islogin===1) {
+
+                            linkerClick($(targetLink).attr('href'),'_self');
+                        } else {
+
+                            linkerClick('/login.aspx?ReturnUrl='+$(targetLink).attr('href'));
+                        }
+                    }
+                },
+                error: function(jqXHR,textStatus,errorThrown) {
+                    //logger(jqXHR);
+                    //logger(textStatus);
+                    //logger(errorThrown);
+                    //alert("系統發生錯誤，請重試...");
+                    isLoading3=false;
+                    linkerClick('/login.aspx?ReturnUrl='+$(targetLink).attr('href'));
+                }
+            });
+        });
+
+        var submenuH=0,navbarStatus=-1,cscrollTop=0;
+        $('#navbar ul.dropdown-menu').each(function() {
+            if($(this).height()>submenuH) {
+                submenuH=$(this).height();
+            }
+        });
+
+        function ScaleHeader() {
+            //setTimeout(function() {
+            if(navbarStatus==-1) {
+                navbarStatus=0;
+                //if(isMobile) {
+                    $('.btnSearch').show();
+                //} else {
+                //    $('.searchPanel').show();
+                //}
+            } else {
+                //logger($(window).scrollTop() + '/' + $('#bannerWrapper').height() + '/' + submenuH + '/' + ($('#bannerWrapper').height() - submenuH));
+                if($('#bannerWrapper').length===0) {
+                    if(navbarStatus!=1) {
+                        $('#navbar .dropup').removeClass('dropup').addClass('dropdown');
+                        navbarStatus=1;
+                    }
+
+                } else {
+                    if($(window).scrollTop()>($('#bannerWrapper').height()-submenuH-40)) {
+                        if(navbarStatus!=1) {
+                            $('#navbar .dropup').removeClass('dropup').addClass('dropdown');
+                            navbarStatus=1;
+                        }
+                    } else {
+                        if(navbarStatus!=2) {
+                            //$('#navbar .dropdown').removeClass('dropdown').addClass('dropup');
+                            $('#navbar .dropdown').addClass('dropup');
+                            navbarStatus=2;
+                        }
+                    }
+                }
+            }
+
+            var activeH=$('#bannerWrapper').length===0? 0:$('#bannerWrapper').height(); // DO NOT USE $('.menubarTop').position().top
+            cscrollTop=$(window).scrollTop();
+
+            if($(window).scrollTop()>activeH) {
+                // $('body').css('padding-top',$('.menubarTop').height()); // #affixMenubarWrapper
+                 $('body').css('padding-top',$('#affixMenubarWrapper').height()); // .menubarTop
+                $('#affixMenubarWrapper').css('position','fixed').css('top',0);
+
+                //if(!$('.btnSearch').hasClass('actived')) {
+                //    $('.searchPanel').slideUp().hide();
+                //}
+                //$('.btnSearch').show();
+                if(!$('.mainCarouselfbtn').hasClass('actived')) {
+                    $('.mainCarouselfbtn').addClass('actived');
+                }
+            } else {
+
+                $('#affixMenubarWrapper').css('position','relative').css('top','auto');
+                $('body').css('padding-top',0);
+                //if(!isMobile) {
+                //    $('.searchPanel').show().css('background-color','rgba(255,255,255,0.7)');
+                //    $('.searchPanelTitlt').css('color','black');
+                //}
+                //$('.btnSearch').removeClass('actived');
+
+                //if(!isMobile) {
+                //    $('.btnSearch').hide();
+                //}
+                if($('.mainCarouselfbtn').hasClass('actived')) {
+                    $('.mainCarouselfbtn').removeClass('actived');
+                }
+            }
+            //}, 200);
+        }
+
+        $('.btnSearch').click(function() {
+            if($('.btnMobile').attr('aria-expanded')==='true') {
+                $('.btnMobile').click();
+            }
+            $('.btnSearch').toggleClass('actived');
+            $('.searchPanel').slideToggle();
+            if($('.searchPanel').is(':visible')) {
+                $('.searchPanel').css('background-color','rgba(224,37,18,0.8)');
+                $('.searchPanelTitlt').css('color','white');
+            }
+            return false;
+        });
+
+
+        $('.btnMobile').click(function() {
+            if($('.btnMobile').attr('aria-expanded')==='false') {
+                //$('.btnSearch').removeClass('actived');
+                $('.searchPanel').hide();
+            } else if($('.btnSearch').hasClass('actived')||!$('.btnSearch').is(':visible')) {
+                $('.searchPanel').show();
+            } else {
+                $('.searchPanel').hide();
+            }
+        });
+
+        ScaleHeader();
+
+        $(window).on("load",ScaleHeader);
+        $(window).on("resize",ScaleHeader);
+        $(window).on("orientationchange",ScaleHeader);
+        $(window).on("scroll",ScaleHeader);
+
+        var isLoading2=false;
+        $('.searchText').on('keyup focus paste',function() {
+            if($.trim($('.searchText').val())!='') {
+                if(isLoading2) {
+                    return;
+                }
+                isLoading2=true;
+                $.ajax({
+                    type: "POST",
+                    url: "/ws2017.asmx/getSearchHint",
+                    data: "{qty:5,searchText:'"+$.trim($('.searchText').val())+"'}",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function(data,status) {
+                        if($.trim(data)!=''&&data.d) {
+                            var dataAry=$.parseJSON(data.d);
+                            if(dataAry.length==0) {
+                                // Error, Do Nothing...
+                                $('.searchHintPanel').slideUp();
+                                logger('length is 0...');
+                            } else {
+                                logger(data);
+                                var d,h;
+                                //logger(dataAry.length);
+                                $('.searchHintPanel').html('');
+                                for(var i=0;i<dataAry.length;i++) {
+                                    d=dataAry[i];
+
+                                    h='';
+                                    h+='<div onclick="pickupKeyword(\''+d.msg_subject+'\');" class="searchResultItem">';
+                                    h+=d.msg_subject;
+                                    h+='</div>';
+
+                                    $('.searchHintPanel').append(h);
+                                }
+                                if(!$('.searchHintPanel').is(':visible')) {
+                                    $('.searchHintPanel').slideDown();
+                                }
+                            }
+                        } else {
+                            $('.searchHintPanel').slideUp();
+                        }
+                        isLoading2=false;
+                    },
+                    error: function(jqXHR,textStatus,errorThrown) {
+                        // Do Nothing...
+                        //logger(jqXHR);
+                        //logger(textStatus);
+                        //logger(errorThrown);
+                        logger('error...');
+                        $('.searchHintPanel').slideUp();
+                        isLoading2=false;
+                    }
+                });
+            } else {
+                $('.searchHintPanel').slideUp();
+                isLoading2=false;
+            }
+        }).blur(function() {
+            $('.searchHintPanel').slideUp();
+            isLoading2=false;
+        });;
+
+        var testing=true;
+
+        $('.dropdown-large').on('mouseenter click',function() { // mouseenter
+            if(isMobile&&!isIOS&&testing) { // for android
+                $('.dropdown-large').removeClass('open');
+                $('.menubar2017 .dropdown-menu').css('display','none');
+            }
+            if(!$(this).hasClass('open')) {
+                $('.dropdown-toggle',$(this)).dropdown();
+                $(this).addClass('open');
+                if(isMobile&&!isIOS&&testing) { // for android
+                    $('.dropdown-menu',$(this)).css('display','block');
+                }
+            }
+        }).mouseleave(function() { // mouseleave,  DO NOT USE mouseout
+            $(this).blur().removeClass('open');
+            if(isMobile&&!isIOS&&testing) { // for android
+                $('.dropdown-large').removeClass('open');
+                //$('.dropdown-menu', $(this)).css('display', 'none');
+                $('.menubar2017 .dropdown-menu').css('display','none');
+            }
+        });
+
+    });
+
+    var pickupKeyword=function(p) {
+        $('.searchText').val(p);
+        $('.searchHintPanel').slideUp();
+    }
+
+</script>
+
+
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-1 col-sm-1"></div>
+                    <div class="col-md-10 col-sm-10 col-xs-12">
+                        
+    <div class="panel2Wrapper">
+        <div class="panel2Header orange">
+            <h1 style="font-size: 30px;">課程查詢</h1>
+        </div>
+        <div>
+            <div class="row">
+                <div class="col-md-1 col-sm-1"></div>
+                <div class="col-md-10 col-sm-10">
+                    <div class="fontOrange" style="padding: 0 0 15px 0;">
+                        ●課程時間若有更動，以分校實際開課日期為準。
+                    </div>
+                </div>
+                <div class="col-md-1 col-sm-1"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-1 col-sm-1"></div>
+                <div class="col-md-10 col-sm-10">
+                    <div id="ctl00_ContentPlaceHolder1_UpdatePanel1">
+	
+                            <div id="ctl00_ContentPlaceHolder1_formPanel" class="tabWrapper">
+		
+                                <div class="row tabHeader2">
+                                    <div class="col-md-12 text-center" style="line-height: 40px; vertical-align: middle;">
+                                        請選擇您要查詢的開課條件
+                                    </div>
+                                </div>
+                                <div class="row tabItems2">
+                                    <div class="col-md-3 subTitle">
+                                        類別
+                                    </div>
+                                    <div class="col-md-9 form-group">
+                                        <select name="ctl00$ContentPlaceHolder1$ddl_sob2" id="ctl00_ContentPlaceHolder1_ddl_sob2" RepeatDirection="Horizontal" RepeatLayout="Flow">
+			<option selected="selected" value="">所有類別</option>
+			<option value="4">視覺設計</option>
+			<option value="8">程式/資料庫</option>
+			<option value="5">3D多媒體動畫</option>
+			<option value="6">網頁設計</option>
+			<option value="3">建築室內設計</option>
+			<option value="1">手機APP設計</option>
+			<option value="11">影視特效</option>
+			<option value="2">工業設計</option>
+			<option value="7">網路管理</option>
+			<option value="10">電腦入門</option>
+			<option value="9">認證輔導</option>
+
+		</select>
+                                        
+                                        <div class="visible-lg-inline visible-md-inline visible-sm-inline" style="margin-left: 15px;"></div>
+                                        <div class="visible-xs-block" style="margin-top: 15px;"></div>
+                                        <select name="ctl00$ContentPlaceHolder1$ddl_sob3" id="ctl00_ContentPlaceHolder1_ddl_sob3" RepeatDirection="Horizontal" RepeatLayout="Flow">
+			<option selected="selected" value="">所有課程</option>
+
+		</select>
+                                        
+                                    </div>
+                                </div>
+                                <div class="row tabItems2">
+                                    <div class="col-md-3 subTitle">
+                                        課程
+                                    </div>
+                                    <div class="col-md-9 form-group courseDataList">
+                                        
+                                        
+                                    </div>
+                                </div>
+                                <div class="row tabItems2">
+                                    <div class="col-md-3 subTitle">
+                                        開課分校
+                                    </div>
+                                    <div class="col-md-9 form-group">
+                                        <div>
+                                            <select name="ctl00$ContentPlaceHolder1$ddl_area" id="ctl00_ContentPlaceHolder1_ddl_area">
+			<option value="">請選擇</option>
+			<option value="99998">IT360</option>
+			<option value="99999">線上真人</option>
+			<option value="1">台北市</option>
+			<option value="2">新北市</option>
+			<option value="4">桃園縣市</option>
+			<option value="5">新竹縣市</option>
+			<option value="6">苗栗縣市</option>
+			<option selected="selected" value="7">台中市</option>
+			<option value="9">南投縣市</option>
+			<option value="10">彰化縣市</option>
+			<option value="11">雲林縣</option>
+			<option value="12">嘉義縣市</option>
+			<option value="13">台南市</option>
+			<option value="15">高雄市</option>
+			<option value="17">屏東縣市</option>
+			<option value="18">宜蘭縣市</option>
+			<option value="19">花東縣市</option>
+
+		</select>
+                                        </div>
+                                        
+                                        <span id="ctl00_ContentPlaceHolder1_cbl_branch" class="listItemStyle"><input id="ctl00_ContentPlaceHolder1_cbl_branch_0" type="checkbox" name="ctl00$ContentPlaceHolder1$cbl_branch$0" checked="checked" /><label for="ctl00_ContentPlaceHolder1_cbl_branch_0">台中站前</label><br /><input id="ctl00_ContentPlaceHolder1_cbl_branch_1" type="checkbox" name="ctl00$ContentPlaceHolder1$cbl_branch$1" /><label for="ctl00_ContentPlaceHolder1_cbl_branch_1">公益認證</label><br /><input id="ctl00_ContentPlaceHolder1_cbl_branch_2" type="checkbox" name="ctl00$ContentPlaceHolder1$cbl_branch$2" /><label for="ctl00_ContentPlaceHolder1_cbl_branch_2">逢甲認證</label><br /><input id="ctl00_ContentPlaceHolder1_cbl_branch_3" type="checkbox" name="ctl00$ContentPlaceHolder1$cbl_branch$3" /><label for="ctl00_ContentPlaceHolder1_cbl_branch_3">豐原認證</label><br /><input id="ctl00_ContentPlaceHolder1_cbl_branch_4" type="checkbox" name="ctl00$ContentPlaceHolder1$cbl_branch$4" /><label for="ctl00_ContentPlaceHolder1_cbl_branch_4">三民認證</label><br /><input id="ctl00_ContentPlaceHolder1_cbl_branch_5" type="checkbox" name="ctl00$ContentPlaceHolder1$cbl_branch$5" /><label for="ctl00_ContentPlaceHolder1_cbl_branch_5">大里認證</label><br /><input id="ctl00_ContentPlaceHolder1_cbl_branch_6" type="checkbox" name="ctl00$ContentPlaceHolder1$cbl_branch$6" /><label for="ctl00_ContentPlaceHolder1_cbl_branch_6">沙鹿認證</label><br /><input id="ctl00_ContentPlaceHolder1_cbl_branch_7" type="checkbox" name="ctl00$ContentPlaceHolder1$cbl_branch$7" /><label for="ctl00_ContentPlaceHolder1_cbl_branch_7">大甲認證</label></span>
+                                        
+                                        <div class="clearfix"></div>
+                                    </div>
+                                </div>
+                                <div class="row tabItems2">
+                                    <div class="col-md-3 subTitle">
+                                        開課年月
+                                    </div>
+                                    <div class="col-md-9 form-group">
+                                        <span id="ctl00_ContentPlaceHolder1_cbl_yearMonth" class="listItemStyle"><input id="ctl00_ContentPlaceHolder1_cbl_yearMonth_0" type="checkbox" name="ctl00$ContentPlaceHolder1$cbl_yearMonth$0" /><label for="ctl00_ContentPlaceHolder1_cbl_yearMonth_0">2019/06</label><br /><input id="ctl00_ContentPlaceHolder1_cbl_yearMonth_1" type="checkbox" name="ctl00$ContentPlaceHolder1$cbl_yearMonth$1" /><label for="ctl00_ContentPlaceHolder1_cbl_yearMonth_1">2019/07</label><br /><input id="ctl00_ContentPlaceHolder1_cbl_yearMonth_2" type="checkbox" name="ctl00$ContentPlaceHolder1$cbl_yearMonth$2" /><label for="ctl00_ContentPlaceHolder1_cbl_yearMonth_2">2019/08</label></span>
+                                    </div>
+                                </div>
+                                <div class="row tabFooter2">
+                                    <div class="col-md-3 subTitle">
+                                        上課時段
+                                    </div>
+                                    <div class="col-md-9 form-group">
+                                        <select name="ctl00$ContentPlaceHolder1$ddl_week" id="ctl00_ContentPlaceHolder1_ddl_week">
+			<option selected="selected" value="">星期不限</option>
+			<option value="W1">星期一三</option>
+			<option value="W2">星期二四</option>
+			<option value="W3">星期三五</option>
+			<option value="W4">星期一四</option>
+			<option value="W5">星期二五</option>
+			<option value="W6">星期三六</option>
+			<option value="W7">星期一五</option>
+			<option value="W8">星期六日</option>
+			<option value="W9">星期假日</option>
+			<option value="W10">密集班</option>
+			<option value="W11">星期一三五</option>
+			<option value="W12">星期二四六</option>
+			<option value="W13">其他</option>
+
+		</select>
+                                        <div class="visible-lg-inline visible-md-inline visible-sm-inline" style="margin-left: 15px;"></div>
+                                        <div class="visible-xs-block" style="margin-top: 15px;"></div>
+                                        <select name="ctl00$ContentPlaceHolder1$ddl_distinct" id="ctl00_ContentPlaceHolder1_ddl_distinct">
+			<option selected="selected" value="">時段不限</option>
+			<option value="D">早上班</option>
+			<option value="M">下午班</option>
+			<option value="N">晚上班</option>
+			<option value="A">白天班</option>
+			<option value="S">假日班</option>
+			<option value="H">密集班</option>
+
+		</select>
+                                    </div>
+                                </div>
+
+                                <a id="ctl00_ContentPlaceHolder1_btnQry" class="submitBtn bgBlue" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnQry&#39;,&#39;&#39;)">查詢</a>
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$isob2" id="ctl00_ContentPlaceHolder1_isob2" />
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$isob3" id="ctl00_ContentPlaceHolder1_isob3" />
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$icourse" id="ctl00_ContentPlaceHolder1_icourse" />
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$icityno" id="ctl00_ContentPlaceHolder1_icityno" value="7" />
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$ibranchid" id="ctl00_ContentPlaceHolder1_ibranchid" value="FB  ," />
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$isdate" id="ctl00_ContentPlaceHolder1_isdate" value="201906,201907,201908," />
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$iweek" id="ctl00_ContentPlaceHolder1_iweek" />
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$idistinct" id="ctl00_ContentPlaceHolder1_idistinct" />
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$icatName" id="ctl00_ContentPlaceHolder1_icatName" />
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$ccat" id="ctl00_ContentPlaceHolder1_ccat" />
+                            
+	</div>
+                        
+</div>
+                </div>
+                <div class="col-md-1 col-sm-1"></div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="panel2Header orange" style="margin-left: 10px; margin-top: 10px; display: none;">
+        課程列表
+    </div>
+    <div class="row" id="classList" style="padding: 0 20px 0 20px;">
+    </div>
+    <div class="clearfix"></div>
+    <div class="row" id="netFormPanel" style="padding: 0 20px; display: none;">
+        <div class="col-md-12">
+            
+<a name="footerNetForm"></a>
+<div style="padding: 15px;">
+    <div id="ctl00_ContentPlaceHolder1_netForm_UpdatePanel1">
+	
+            <style>
+                .submitBtn {
+                    margin-left:auto!important;
+                    margin-right:auto!important;
+                }
+
+            </style>
+            <div class="row" style="border: 1px solid  dodgerblue;">
+                <div class="col-md-12 bgBlue fontWhite" style="font-weight: bold; font-size: 20px; padding: 5px; color: white;">
+                    免費課程諮詢
+                </div>
+                <div class="container-fluid" style="background-color:white;">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div id="ctl00_ContentPlaceHolder1_netForm_formPanel">
+		
+                                <div class="row" style="padding-top: 15px;">
+                                    <div class="col-sm-6 col-md-4 form-group">
+                                        <input name="ctl00$ContentPlaceHolder1$netForm$iName" type="text" maxlength="10" id="ctl00_ContentPlaceHolder1_netForm_iName" class="form-control" placeholder="姓名" />
+                                        
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 form-group">
+                                        <input name="ctl00$ContentPlaceHolder1$netForm$iMobile" type="text" maxlength="10" id="ctl00_ContentPlaceHolder1_netForm_iMobile" class="form-control" placeholder="手機" />
+                                        
+                                        
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-4 form-group">
+                                        <input name="ctl00$ContentPlaceHolder1$netForm$iEmail" type="text" maxlength="50" id="ctl00_ContentPlaceHolder1_netForm_iEmail" class="form-control" placeholder="電子信箱" />
+                                        
+                                        
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-xs-6 form-group">
+                                        <select name="ctl00$ContentPlaceHolder1$netForm$ddlcity1" id="ctl00_ContentPlaceHolder1_netForm_ddlcity1" class="form-control">
+			<option selected="selected" value="">請選擇</option>
+			<option value="01">基隆市</option>
+			<option value="02">台北市</option>
+			<option value="03">新北市</option>
+			<option value="04">桃園市</option>
+			<option value="05">新竹市</option>
+			<option value="06">新竹縣</option>
+			<option value="07">苗栗縣</option>
+			<option value="08">台中市</option>
+			<option value="10">彰化縣</option>
+			<option value="11">南投縣</option>
+			<option value="12">雲林縣</option>
+			<option value="13">嘉義市</option>
+			<option value="14">嘉義縣</option>
+			<option value="15">台南市</option>
+			<option value="17">高雄市</option>
+			<option value="19">屏東縣</option>
+			<option value="20">台東縣</option>
+			<option value="21">花蓮縣</option>
+			<option value="22">宜蘭縣</option>
+			<option value="23">澎湖縣</option>
+			<option value="24">金門縣</option>
+			<option value="25">連江縣</option>
+
+		</select>
+                                        
+                                        
+                                    </div>
+                                    <div class="col-xs-6 form-group">
+                                        <select name="ctl00$ContentPlaceHolder1$netForm$ddlcity2" id="ctl00_ContentPlaceHolder1_netForm_ddlcity2" class="form-control">
+			<option value="">請選擇</option>
+
+		</select>
+                                        
+                                        
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12 form-group">
+                                        <div class="pull-left">【限量】免費贈品領取：</div>
+                                        <div class="pull-left">
+                                            <span id="ctl00_ContentPlaceHolder1_netForm_prizeList" class="listItemStyle"><input id="ctl00_ContentPlaceHolder1_netForm_prizeList_0" type="radio" name="ctl00$ContentPlaceHolder1$netForm$prizeList" value="1" checked="checked" /><label for="ctl00_ContentPlaceHolder1_netForm_prizeList_0">12000堂免費電腦線上課程</label></span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="center-block form-group">
+                                    <div class="text-center" style="padding-top: 20px; padding-bottom: 20px;">
+                                        <span class="agreeBox"><font color="Black"><input id="ctl00_ContentPlaceHolder1_netForm_iAgree" type="checkbox" name="ctl00$ContentPlaceHolder1$netForm$iAgree" /><label for="ctl00_ContentPlaceHolder1_netForm_iAgree">我已詳細閱讀並接受</label></font></span>
+                                        <a href="http://www.pcschool.com.tw/member/Message.html" target="_blank" class="agreeLink">個資保護聲明</a>
+                                    </div>
+                                    <input type="submit" name="ctl00$ContentPlaceHolder1$netForm$formdataBtn" value="送出" onclick="iformcheck();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$netForm$formdataBtn&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolder1_netForm_formdataBtn" class="submitBtn bgOrange center-block text-center" />
+                                    <div style="color: gray;">* 免費贈品數量有限，將由專人安排至巨匠電腦分校領取，如贈送完畢將以等值贈品代替。</div>
+                                    <script>
+                                        function iformcheck() {
+                                            if (typeof (Page_ClientValidate) == 'function') {
+                                                Page_ClientValidate();
+                                            }
+
+                                            if (!Page_IsValid) {
+                                                alert('填寫資料有誤，請檢查後再重試...');
+                                                return false;
+                                            } else {
+                                                var tObj = $('#ctl00_ContentPlaceHolder1_netForm_iAgree');
+                                                if (!tObj.is(":checked")) {
+                                                    alert("請勾選『我已詳細閱讀並接受個資保護聲明』...");
+                                                    return false;
+                                                }
+                                            }
+                                            return true;
+                                        }
+                                    </script>
+                                </div>
+                            
+	</div>
+                        </div>
+                        <div class="col-md-4 center-block text-center">
+                            <img src="/2015/uc/netform/images/prize.png" class="img-responsive" style="display: inline-block; margin-top: 10px;" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+</div>
+</div>
+<script src="/js/gjunConversion.js"></script>
+        </div>
+    </div>
+    <div class="btnMore orange" data-page="0" data-text="看更多課程" style="display: none;">
+        看更多課程
+    </div>
+    <script type="text/javascript">
+        var isLoading=false;
+        var isob2= "#ctl00_ContentPlaceHolder1_isob2",isob3= "#ctl00_ContentPlaceHolder1_isob3",icourse= "#ctl00_ContentPlaceHolder1_icourse",icityno= "#ctl00_ContentPlaceHolder1_icityno",ibranchid= "#ctl00_ContentPlaceHolder1_ibranchid",isdate= "#ctl00_ContentPlaceHolder1_isdate",iweek= "#ctl00_ContentPlaceHolder1_iweek",idistinct= "#ctl00_ContentPlaceHolder1_idistinct",ccat="#ctl00_ContentPlaceHolder1_ccat";
+        var sob2="",sob3="",course="",cityno="",branchid="",sdate="",week="",distinct="";
+
+        $(function() {
+            $('.btnMore').click(function() {
+                if(isLoading) {
+                    return;
+                }
+                isLoading=true;
+                $('.btnMore').html('載入中，請稍候...');
+                $.ajax({
+                    type: "POST",
+                    url: "/ws2015.asmx/getClassList2017",
+                    data: "{page:"+$('.btnMore').attr('data-page')+",sob2:'"+sob2+"',sob3:'"+sob3+"',course:'"+course+"',cityno:'"+cityno+"',branchid:'"+branchid+"',sdate:'"+sdate+"',week:'"+week+"',distinct:'"+distinct+"'}",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: readData,
+                    error: reqerr
+                });
+            });
+
+            var readData=function(data,status) {
+                logger(data.d);
+                var dataAry=$.parseJSON(data.d);
+                var counter="";
+                if(dataAry.length==0) {
+                    alert("系統發生錯誤，請重試...#1");
+                } else {
+                    var d,h;
+                    logger(dataAry);
+                    for(var i=0;i<dataAry.length-1;i++) {
+                        d=dataAry[i];
+
+                        h='';
+                        h+='<div class="col-lg-3 col-md-4 col-sm-6">';
+
+                        h+='<a href="/2015/enrollClass.aspx?courseid='
+                            +encodeURIComponent($.trim(d.class_id))
+                            +'&coursetype='+d.coursetype
+                            +'&ccat='+$(ccat).val()
+                            +'" class="linker" target="0">';
+
+                        if($.trim(d.coursetype)=='2') {
+                            h+='<div class="panel5Item coursetype2">';
+                        } else if($.trim(d.coursetype)=='3') {
+                            h+='<div class="panel5Item coursetype3">';
+                        } else {
+                            h+='<div class="panel5Item">';
+                        }
+
+                        h+='<div class="panel5ItemTitle">';
+                        h+='登記課程<span class="glyphicon glyphicon-chevron-right"></span>';
+                        h+='</div>';
+                        h+='<div style="padding:5px;">';
+                        h+='<div class="panel5ItemTitle2 ">';
+                        h+='【課程】';
+                        h+='</div>';
+                        h+='<div class="panel5ItemText">';
+                        h+=d.course_name;
+                        h+='</div>';
+                        h+='<div class="panel5ItemTitle2 ">';
+                        h+='【地點】';
+                        h+='</div>';
+                        h+='<div class="panel5ItemText2">';
+
+                        //h+=($.trim(d.coursetype)=='2'? '電腦線上真人':d.dept_sname);
+                        if($.trim(d.coursetype)=='2') {
+                            h+='電腦線上真人';
+                        } else if($.trim(d.coursetype)=='3') {
+                            h+='IT360-線上真人';
+                        } else {
+                            h+=d.dept_sname;
+                        }
+
+                        h+='</div>';
+                        h+='<div class="panel5ItemTitle2">';
+                        h+='【時間】';
+                        h+='</div>';
+                        h+='<div class="panel5ItemText">';
+                        h+=d.s_date;
+                        h+='<br/>';
+                        h+=d.time_name;
+                        h+='</div>';
+                        h+='</div>';
+                        h+='</div>';
+                        h+='</a>';
+
+                        h+='</div>';
+                        $('#classList').append(h);
+                    }
+
+                    $('#classList .linker').off('click').click(function(e) {
+                        e.preventDefault();
+                        linkerClick($(this));
+                    });
+
+                    d=dataAry[dataAry.length-1];
+                    if(d.course_name=='Z') {
+                        if(dataAry.length==1) {
+                            h='';
+                            h+='<div class="col-md-12">';
+                            h+='<p class="bg-info" style="margin:20px;padding:5px;">線上查詢尚無符合條件的課程，請填下表將由專人與您聯繫</p>';
+                            h+="</div>";
+                            $('#classList').append(h);
+                            $('#netFormPanel').show();
+                        }
+                        $('.btnMore').hide();
+                    } else {
+                        $('.btnMore').attr('data-page',d.course_name)
+                        counter=d.dept_sname;
+                    }
+                }
+                isLoading=false;
+                $('.btnMore').html($('.btnMore').attr('data-text')); // + counter);
+            }
+
+            var reqerr=function(jqXHR,textStatus,errorThrown) {
+                isLoading=false;
+                alert("系統發生錯誤，請重試...");
+                logger(jqXHR);
+                logger(textStatus);
+                logger(errorThrown);
+                $('.btnMore').html($('.btnMore').attr('data-text'));
+            };
+
+            //$('.btnMore').click();
+        });
+
+        var loadData=function(p) {
+            if(!isLoading) {
+                $('.btnMore').attr('data-page',0);
+                $('#classList').html('');
+
+                sob2=$(isob2).val();
+                sob3=$(isob3).val();
+                course=$(icourse).val();
+                cityno=$(icityno).val();
+                branchid=$(ibranchid).val();
+                sdate=$(isdate).val();
+                week=$(iweek).val();
+                distinct=$(idistinct).val();
+
+                $('#netFormPanel').hide();
+                $('.panel2Header').show();
+                $('.btnMore').show();
+                $('.btnMore').click();
+                $('html, body').stop().animate({
+                    'scrollTop': $('#classList').position().top
+                },1000,'swing');
+            }
+        };
+    </script>
+
+
+                    </div>
+                    <div class="col-md-1 col-sm-1"></div>
+                </div>
+            </div>
+            
+
+<div style="overflow-x: hidden;">
+    <div class="row" style="background-image: url(/2017/images/bg.jpg); padding: 30px 0; margin-top: 30px;">
+        <div class="col-md-12">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+                <div class="row" style="position: relative">
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="col-lg-12 col-md-12 col-sm-12 footerSubtitle text-center">
+                            巨匠電腦<span class="glyphicon glyphicon-chevron-down"></span>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 footerContent">
+                            <div class="col-md-12 col-sm-12"><a href="/">巨匠電腦</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="/branch-school">全國分校</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="/courses">全國課表</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="http://forum.pcschool.com.tw" target="_blank">電腦技術論壇</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="http://www.pcschoolonline.com.tw" target="_blank">電腦線上真人</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="https://www.it360.com.tw" target="_blank">IT360名師專區</a></div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="col-lg-12 col-md-12 col-sm-12 footerSubtitle text-center">
+                            巨匠美語<span class="glyphicon glyphicon-chevron-down"></span>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 footerContent">
+                            <div class="col-md-12 col-sm-12"><a href="https://www.soeasyedu.com.tw" target="_blank">巨匠美語</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="https://www.soeasyedu.com.tw/branchschool" target="_blank">全國分校</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="https://www.soeasyedu.com.tw/courses" target="_blank">全國課表</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="https://www.soeasyedu.com.tw/mobile-learning" target="_blank">蜂美語APP</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="https://www.soeasyedu.com.tw/kid-english" target="_blank">兒童美語</a></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="col-lg-12 col-md-12 col-sm-12 footerSubtitle text-center">
+                            巨匠雲端<span class="glyphicon glyphicon-chevron-down"></span>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 footerContent">
+                            <div class="col-md-12 col-sm-12"><a href="http://www.wincenter.com.tw" target="_blank">巨匠國中狀元王</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="http://www.abconline.com.tw" target="_blank">美語線上真人</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="https://www.soeasyedu.com.tw/learn-japanese-online" target="_blank">日語線上真人</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="http://www.abconline.com.tw/activity/abconline/00080_koreanfree/default.aspx?fromto=99001012" target="_blank">韓語線上真人</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="https://www.soeasyedu.com.tw/learn-spanish-online" target="_blank">西班牙線上真人</a></div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="col-lg-12 col-md-12 col-sm-12 footerSubtitle text-center">
+                            巨匠數位學院<span class="glyphicon glyphicon-chevron-down"></span>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 footerContent">
+                            <div class="col-md-12 col-sm-12"><a href="http://www.pcschool.tv" target="_blank">巨匠電腦數位學院</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="http://www.pcschool.tv/soeasyedu" target="_blank">巨匠美語數位學院</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="http://www.pcschool.tv/soeasyedu" target="_blank">巨匠日語數位學院</a></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="col-lg-12 col-md-12 col-sm-12 footerSubtitle text-center">
+                            社     群<span class="glyphicon glyphicon-chevron-down"></span>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 footerContent">
+                            <div class="col-md-12 col-sm-12"><a href="https://www.facebook.com/pcplay" target="_blank">就醬玩電腦</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="https://www.facebook.com/gjunsoeasy" target="_blank">就愛嗑英文吐司</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="https://www.youtube.com/user/GjunChannel" target="_blank">巨匠YouTube頻道</a></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="col-lg-12 col-md-12 col-sm-12 footerSubtitle text-center">
+                            其     他<span class="glyphicon glyphicon-chevron-down"></span>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 footerContent">
+                            <div class="col-md-12 col-sm-12"><a href="/activity/gjun_hr/index.html">關於我們</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="/special-offers">最新消息</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="/activity/gjun_hr/index.html">人才招募</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="http://gjun.pcschool.com.tw/career/comlogin.asp" target="_blank">廠商登入</a></div>
+                            <div class="col-md-12 col-sm-12"><a href="https://itunes.apple.com/tw/app/%E5%B7%A8%E5%8C%A0%E9%9B%BB%E8%85%A6%E5%AD%B8%E5%93%A1%E6%9C%8D%E5%8B%99/id1297108141?mt=8" target="_blank">
+                                學員APP(iOS)</a></div>
+                            <div class="col-md-12 col-sm-12">
+                                <a href="https://play.google.com/store/apps/details?id=com.gjun.itstudentservice&hl=zh_TW" target="_blank">學員APP(Android)</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2"></div>
+        </div>
+    </div>
+    <div class="row" style="background-image: url(/2017/images/bg.jpg)">
+        <div class="col-md-12 text-center" style="background-color: rgba(0,0,0,0.15); padding: 20px 0; color: #fff">
+            <div class="col-md-2"></div>
+            <div class="col-md-8" style="font-size: 16px; line-height: 30px">
+                巨匠電腦版權所有<span class="footerSpacer">｜</span><br class="visible-xs" />
+                2019 Gjun information Co., Ltd. All Rights Reserved &nbsp;<span class="footerSpacer">｜</span><br class="visible-xs" />
+                免付費客服專線：0800-231-381&nbsp;週一至五 09:00~18:00<br class="visible-xs" />
+                <a href="/contact-us" target="_blank" style="display: inline;">
+                    <span style="border: solid 1px #fff; padding: 6px; color: #fff; margin: 0 10px">線上諮詢
+                <span class="glyphicon glyphicon-play" style="font-size: 16px"></span></span></a>
+            </div>
+            <div class="col-md-2"></div>
+        </div>
+    </div>
+    
+    <div class="btnGoTop">
+        TOP
+    </div>
+    
+    
+    <div class="btnClassSchedule linker" data-navurl="/netform.aspx?title=免費索取課表&pno=10309A000008&fromto=99001053">
+        索取課表
+    </div>
+    
+</div>
+<style>
+    .btnPlayGame {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        z-index: 898;
+        /*max-width: 300px;*/
+        overflow: hidden;
+        background-color: transparent;
+    }
+
+        .btnPlayGame > img {
+            cursor: pointer;
+        }
+
+    .btnPlayGameIframe {
+        position: fixed;
+        left: 0;
+        bottom: -1080px;
+        /*z-index: 897;*/
+        z-index: 999 !important;
+        width: 300px;
+        overflow: hidden;
+        height: 350px;
+        margin: 0;
+        padding: 0;
+        background-color: transparent;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+
+    .btnClassSchedule {
+        color: white;
+        padding: 5px;
+        border-radius: 5px;
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+        font-size: 18px;
+        text-align: center;
+        white-space: nowrap;
+        cursor: pointer;
+        z-index: 897;
+        background-color: #FF3B3B;
+        text-align: center;
+    }
+
+    .btnGoTop {
+        position: fixed;
+        right: 10px;
+        bottom: 60px;
+        z-index: 899;
+        background-color: #4B2F86;
+        color: white;
+        border-radius: 90px;
+        text-align: center;
+        vertical-align: middle;
+        font-size: 14px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 2px solid white;
+    }
+</style>
+
+<script>
+    $(function() {
+        $('.footerSubtitle').click(function() {
+            if($('.glyphicon',$(this)).is(':visible')) {
+                $('.footerContent',$(this).parent()).toggle();
+                if($('.footerContent',$(this).parent()).is(':visible')) {
+                    $('.glyphicon',$(this)).removeClass('glyphicon-chevron-down').addClass('glyphicon-chevron-up');
+                } else {
+                    $('.glyphicon',$(this)).removeClass('glyphicon-chevron-up').addClass('glyphicon-chevron-down');
+                }
+            }
+        });
+
+        function ScaleFooter() {
+            var ww=$(window).width();
+
+            if(ww!==prewinWidth) {
+                if(ww>winxs&&prewinWidth<=winxs) {
+                    $('.footerContent').show();
+                } else if(ww<=winxs&&prewinWidth>winxs) {
+                    $('.footerContent').hide();
+                    $('.footerSubtitle .glyphicon').removeClass('glyphicon-chevron-up').addClass('glyphicon-chevron-down');
+                }
+            }
+            prewinWidth=ww;
+        }
+
+        ScaleFooter();
+
+        $(window).on("load",ScaleFooter);
+        $(window).on("resize",ScaleFooter);
+        $(window).on("orientationchange",ScaleFooter);
+
+        $('.btnGoTop').click(function() {
+            scrolling=true;
+            $('html, body').stop().animate({
+                'scrollTop': 0
+            },1000,'swing',function() {
+                scrolling=false;
+            });
+        });
+
+        $('.btnPlayGame iframe').on('load',function() {
+            $('.btnPlayGameIframe').toggle();
+        });
+
+        $('.btnPlayGame > img').click(function() {
+            if(!$('.btnPlayGameIframe').is(':visible')) {
+                if(typeof (document.getElementById('gameIframe').contentWindow.play)=='function') {
+                    document.getElementById('gameIframe').contentWindow.play();
+                }
+            }
+            $('.btnPlayGameIframe').slideToggle(function() {
+                $(this).css('position','static').css('bottom',0);
+            });
+        });
+    });
+</script>
+
+<script type="application/ld+json">{
+"@context":"http://schema.org",
+"@type":"BreadcrumbList",
+"itemListElement":[
+{"@type":"ListItem","position":1,"name":"巨匠電腦","item":"https://www.pcschool.com.tw"}
+,{"@type":"ListItem","position":2,"name":"課程查詢","item":"https://www.pcschool.com.tw/courses"}
+]}
+</script>
+
+
+
+
+
+        
+
+<script type="text/javascript">
+//<![CDATA[
+setTimeout(function() { loadData();},200);//]]>
+</script>
+</form>
+    </div>
+    <script src="/js/bootstrap336/js/bootstrap.min.js"></script>
+    <script src="/js/slick/slick/slick.min.js"></script>
+    <script src="/js/Magnific-Popup/dist/jquery.magnific-popup.min.js"></script>
+    <script src="/2017/defaultMaster.js"></script>
+    <script src="/js/jquery.cookie.min.js"></script>
+    
+</body>
+</html>
